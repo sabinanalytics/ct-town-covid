@@ -1,0 +1,10 @@
+name: ct-town-covid
+title:
+username:
+account: sabinanalytics
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2642132
+bundleId: 3476166
+url: https://sabinanalytics.shinyapps.io/ct-town-covid/
+when: 1596594926.50131
