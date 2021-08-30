@@ -5,6 +5,9 @@ account: sabinanalytics
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 2642132
-bundleId: 3476166
+bundleId: 4982194
 url: https://sabinanalytics.shinyapps.io/ct-town-covid/
-when: 1596594926.50131
+when: 1630360272.52106
+lastSyncTime: 1630360272.52106
+asMultiple: FALSE
+asStatic: FALSE
