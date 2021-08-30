@@ -62,7 +62,7 @@ ui <- fluidPage(
   
     mainPanel(
       fluidRow(
-            column(5, plotOutput('casesByDatePlot', width = "640px", height = "600px"))
+            column(5, plotlyOutput('casesByDatePlot', width = "640px", height = "600px"))
             
               ),
       dataTableOutput("data_table")
